@@ -1,0 +1,302 @@
+[
+  {
+    "id": "doc_001",
+    "title": "Critical Violations: Temperature Control Requirements",
+    "category": "Critical Violations",
+    "content": "Temperature control is the most common cause of foodborne illness outbreaks. Cold food must be held at 41°F (5°C) or below, and hot food at 135°F (57°C) or above. The danger zone between 41°F and 135°F allows rapid bacterial growth. Refrigeration equipment must maintain proper temperatures consistently, with backup thermometers in all units. Walk-in coolers require daily temperature logs. Frozen food must be kept at 0°F (-18°C) or below. Temperature violations are considered critical and require immediate correction. During inspections, health inspectors will check multiple food items with calibrated thermometers. If potentially hazardous foods (meat, dairy, eggs, cooked rice, cut produce) are found in the danger zone for more than 4 hours, they must be discarded. Restaurants must have metal-stem thermometers accurate to ±2°F available at all times.",
+    "keywords": [
+      "temperature control",
+      "critical violation",
+      "danger zone",
+      "refrigeration",
+      "food safety"
+    ],
+    "violation_type": "critical",
+    "inspection_priority": "high"
+  },
+  {
+    "id": "doc_002",
+    "title": "Cross-Contamination Prevention Protocols",
+    "category": "Critical Violations",
+    "content": "Cross-contamination occurs when harmful bacteria transfer from raw foods (especially meat, poultry, seafood) to ready-to-eat foods. This is a critical violation that can cause severe foodborne illness. Establishments must use separate cutting boards, knives, and prep surfaces for raw proteins and ready-to-eat foods. Color-coded equipment is recommended: red for raw meat, yellow for raw poultry, green for produce, blue for seafood, white for dairy. All equipment must be washed, rinsed, and sanitized between uses. Raw proteins must be stored below ready-to-eat foods in refrigeration, with raw poultry on the bottom shelf. Never wash raw chicken or meat, as this spreads bacteria. Staff must wash hands for 20 seconds with soap after handling raw proteins. Use separate tongs and utensils for raw and cooked foods during service. Cross-contamination is the second leading cause of restaurant closures after temperature abuse.",
+    "keywords": [
+      "cross-contamination",
+      "food separation",
+      "cutting boards",
+      "raw meat",
+      "ready-to-eat"
+    ],
+    "violation_type": "critical",
+    "inspection_priority": "high"
+  },
+  {
+    "id": "doc_003",
+    "title": "Pest Control and Infestation Management",
+    "category": "Critical Violations",
+    "content": "Evidence of pest activity (rodents, cockroaches, flies) is a critical violation that can result in immediate closure. Establishments must have a licensed pest control operator conduct monthly inspections with documented service reports. Common signs of rodent activity include droppings (resembling black rice grains), gnaw marks on packaging, grease marks along walls, and nesting materials. Cockroach evidence includes live insects, egg cases, fecal matter, and musty odors. If active infestation is found during inspection, the establishment typically has 24-48 hours to correct before re-inspection. Prevention measures include sealing all gaps larger than 1/4 inch, installing door sweeps, keeping dumpster areas clean, storing food 6 inches off the floor and away from walls, removing standing water, and fixing leaky pipes. Staff must report any pest sightings immediately. Keep pest control service records for at least 3 years. Fly strips should not be placed over food prep areas.",
+    "keywords": [
+      "pest control",
+      "rodents",
+      "cockroaches",
+      "infestation",
+      "extermination"
+    ],
+    "violation_type": "critical",
+    "inspection_priority": "high"
+  },
+  {
+    "id": "doc_004",
+    "title": "Non-Critical Violations: Facility Maintenance and Labeling",
+    "category": "Non-Critical Violations",
+    "content": "Non-critical violations don't pose immediate health risks but must be corrected. Common facility maintenance issues include: cracked or broken floor tiles (must be smooth, non-absorbent, and easily cleanable), peeling paint or damaged walls, inadequate lighting in prep areas (50 foot-candles required), broken or missing ceiling tiles, damaged door screens, and non-functioning hand sink soap dispensers. Floors must be cleaned and sanitized at close of business. Walls should be wiped down weekly in prep areas. Light bulbs in food areas must have shatter-resistant covers. Hand sinks require hot and cold running water, soap, and single-use towels or air dryers. Food labeling violations include missing date marks on prepared foods. Prepared foods stored in refrigeration must be labeled with preparation date and use-by date. Ready-to-eat potentially hazardous foods can be held for a maximum of 7 days at 41°F or below. These violations typically have 30-90 days for correction depending on jurisdiction.",
+    "keywords": [
+      "facility maintenance",
+      "non-critical",
+      "food labeling",
+      "date marking",
+      "cleaning"
+    ],
+    "violation_type": "non-critical",
+    "inspection_priority": "medium"
+  },
+  {
+    "id": "doc_005",
+    "title": "Cooking Temperature Requirements by Food Type",
+    "category": "Temperature Requirements",
+    "content": "Different foods require specific minimum internal cooking temperatures. Ground meats (beef, pork, lamb) must reach 155°F for 17 seconds. Whole cuts of beef, pork, and lamb require 145°F for 15 seconds (medium rare is acceptable if requested by customer). Poultry (chicken, turkey, duck) must reach 165°F for less than 1 second at all parts, including stuffing if applicable. Ground poultry also requires 165°F. Fish and seafood need 145°F for 15 seconds. Eggs for immediate service can be cooked to customer preference, but eggs for holding (like in a buffet) must reach 155°F. Vegetables being hot-held require 135°F. Reheating previously cooked food for hot holding must reach 165°F for 15 seconds. These temperatures ensure harmful bacteria are destroyed. Use a calibrated metal-stem thermometer, inserting into the thickest part of the food. Document temperatures on cooking logs.",
+    "keywords": [
+      "cooking temperature",
+      "internal temperature",
+      "food safety",
+      "poultry",
+      "meat"
+    ],
+    "violation_type": "critical",
+    "inspection_priority": "high"
+  },
+  {
+    "id": "doc_006",
+    "title": "Cooling and Reheating Procedures",
+    "category": "Temperature Requirements",
+    "content": "Cooling hot food improperly is a leading cause of foodborne illness. The two-stage cooling method is required: cool food from 135°F to 70°F within 2 hours, then from 70°F to 41°F within an additional 4 hours (6 hours total). Methods to speed cooling include: shallow pans (no more than 2 inches deep), ice baths with stirring every 30 minutes, blast chillers, or ice wands for soups. Never place large, hot containers directly into refrigeration - this warms the entire unit and endangers other foods. Dense foods like rice, beans, and chili are high-risk. Monitor and document cooling temperatures. For reheating, previously cooked food must reach 165°F for 15 seconds within 2 hours. Stir soups and sauces while reheating. Slow cookers cannot be used for reheating - they heat too slowly. Microwave reheating requires covering food, rotating, and verifying 165°F throughout. Foods can only be cooled and reheated once.",
+    "keywords": [
+      "cooling procedures",
+      "reheating",
+      "two-stage cooling",
+      "food safety",
+      "temperature danger zone"
+    ],
+    "violation_type": "critical",
+    "inspection_priority": "high"
+  },
+  {
+    "id": "doc_007",
+    "title": "Handwashing and Personal Hygiene Requirements",
+    "category": "Employee Hygiene",
+    "content": "Proper handwashing is the single most important practice to prevent foodborne illness. Staff must wash hands for at least 20 seconds with soap and warm water (100°F minimum) before starting work, after touching face or hair, after using the restroom, after handling raw meat, after taking out trash, after touching money, and after any activity that could contaminate hands. Hand sinks must be accessible, stocked with soap and single-use towels, and used only for handwashing - never for food prep or dishwashing. Hand sanitizer can supplement but never replace handwashing. Employees must keep fingernails trimmed and clean; artificial nails and nail polish are prohibited unless wearing gloves. Cuts and burns must be covered with bandages and gloves. Hair must be restrained with hats, visors, or nets. Eating, drinking, and tobacco use allowed only in designated areas away from food. Clean uniforms or aprons required daily. Jewelry limited to plain wedding band.",
+    "keywords": [
+      "handwashing",
+      "personal hygiene",
+      "employee health",
+      "hand sinks",
+      "food handler"
+    ],
+    "violation_type": "critical",
+    "inspection_priority": "high"
+  },
+  {
+    "id": "doc_008",
+    "title": "Glove Use and Reportable Employee Illnesses",
+    "category": "Employee Hygiene",
+    "content": "Most jurisdictions prohibit bare hand contact with ready-to-eat foods. Single-use gloves must be worn when handling foods that won't be cooked further: sandwiches, salads, garnishes, and plated dishes. Gloves must be changed between tasks, after touching non-food surfaces, whenever torn or contaminated, and at least every 4 hours during continuous use. Hands must be washed before putting on gloves and after removing them. Gloves are single-use only - never wash and reuse. Employees must report specific illnesses to management before working with food. The Big 5 reportable illnesses are: Norovirus, Hepatitis A, Shigella, E. coli O157:H7, and Salmonella Typhi. Employees with symptoms (vomiting, diarrhea, jaundice, sore throat with fever) must be excluded from work until cleared by a doctor. Vomiting or diarrhea requires 24-hour symptom-free period before returning. Establishments must have a written employee health policy posted in staff areas.",
+    "keywords": [
+      "gloves",
+      "bare hand contact",
+      "employee illness",
+      "reportable diseases",
+      "norovirus"
+    ],
+    "violation_type": "critical",
+    "inspection_priority": "high"
+  },
+  {
+    "id": "doc_009",
+    "title": "Cleaning and Sanitizing: Chemicals and Procedures",
+    "category": "Sanitation",
+    "content": "Cleaning and sanitizing are two separate steps. Cleaning removes visible dirt and grease using detergent and hot water. Sanitizing kills bacteria using chemical or heat. All food contact surfaces must be cleaned and sanitized after each use and every 4 hours during continuous use. The three-compartment sink method: (1) Wash in hot soapy water, (2) Rinse in clean water, (3) Sanitize in chemical solution. Approved sanitizers include chlorine bleach (50-100 ppm), quaternary ammonium (200 ppm), or iodine (12.5-25 ppm). Test strips must verify correct concentration. Sanitizer contact time is at least 30 seconds for chlorine, 60 seconds for quat. Allow items to air dry - towel drying can re-contaminate. Sanitizer buckets for wiping cloths should be changed every 4 hours or when visibly dirty. Store wiping cloths in sanitizer between uses. Equipment cleaning schedules: daily for food contact surfaces, weekly for walls and shelving, monthly for walk-in coolers.",
+    "keywords": [
+      "cleaning",
+      "sanitizing",
+      "chemical sanitizers",
+      "three-compartment sink",
+      "disinfection"
+    ],
+    "violation_type": "critical",
+    "inspection_priority": "high"
+  },
+  {
+    "id": "doc_010",
+    "title": "FIFO and Proper Food Storage Organization",
+    "category": "Food Storage",
+    "content": "First In, First Out (FIFO) prevents food waste and ensures product freshness. When new deliveries arrive, move older products to the front and place new items behind. Date all items upon receipt and preparation. Store food in clear, labeled containers. Refrigeration follows specific top-to-bottom order to prevent cross-contamination: Top shelf - ready-to-eat foods, prepared items, leftovers. Second shelf - seafood (145°F cooking temp). Third shelf - whole cuts of beef/pork (145°F). Fourth shelf - ground meats (155°F). Bottom shelf - poultry (165°F). Raw proteins must be in covered containers or sealed bags to prevent dripping. Store food 6 inches off the floor and away from walls for air circulation and pest prevention. Never overload refrigeration - blocks airflow. Walk-in coolers need organization systems for produce, dairy, and proteins. Remove all cardboard before storing items in coolers - cardboard harbors pests and bacteria.",
+    "keywords": [
+      "FIFO",
+      "food storage",
+      "storage organization",
+      "cross-contamination prevention",
+      "inventory rotation"
+    ],
+    "violation_type": "non-critical",
+    "inspection_priority": "medium"
+  },
+  {
+    "id": "doc_011",
+    "title": "Approved Food Sources and Supplier Documentation",
+    "category": "Food Storage",
+    "content": "All food must come from approved sources licensed by regulatory authorities. Restaurants cannot use home-prepared foods, wild-caught game (unless inspected), or foraged mushrooms without approval. Each delivery requires verification: check truck cleanliness and temperature, inspect product quality and temperature, verify correct items and quantities, and ensure proper labeling. Keep invoices and receiving records for at least 90 days. Suppliers must provide Safe Food Source documentation. Shellfish require special tags that must be kept for 90 days after the last item is sold - these tags trace outbreaks. Milk and dairy products need Grade A labels. Eggs should be refrigerated upon receipt. Reject damaged cans (swollen, dented seams), expired products, foods in the temperature danger zone, or items with pest evidence. Never accept foods from unauthorized sources. During inspections, health inspectors will review supplier documentation and invoices.",
+    "keywords": [
+      "food sources",
+      "supplier documentation",
+      "receiving procedures",
+      "shellfish tags",
+      "approved vendors"
+    ],
+    "violation_type": "critical",
+    "inspection_priority": "medium"
+  },
+  {
+    "id": "doc_012",
+    "title": "The Big 9 Allergens: Prevention and Disclosure",
+    "category": "Allergen Management",
+    "content": "The FDA identifies 9 major food allergens responsible for 90% of food allergies: milk, eggs, fish, shellfish, tree nuts, peanuts, wheat, soybeans, and sesame. Establishments must prevent cross-contact (allergen version of cross-contamination) and accurately communicate allergen information. Cross-contact occurs when allergen proteins transfer to allergen-free foods through shared equipment, surfaces, or utensils. Prevention measures: dedicate equipment for allergen-free prep when possible, clean and sanitize all surfaces between preparing allergen and allergen-free foods, use separate fryer oil for allergen items, store allergen ingredients separately with clear labels, and train staff to recognize allergens in all ingredients. Menu disclosure: clearly label items containing major allergens or state 'please inform server of any allergies'. Never guess about ingredients - check with kitchen. Take allergy requests seriously - even trace amounts can cause severe reactions. Designate an allergen-aware employee during each shift.",
+    "keywords": [
+      "food allergens",
+      "cross-contact",
+      "allergen disclosure",
+      "Big 9 allergens",
+      "menu labeling"
+    ],
+    "violation_type": "critical",
+    "inspection_priority": "high"
+  },
+  {
+    "id": "doc_013",
+    "title": "Allergen Cross-Contact Prevention in Kitchens",
+    "category": "Allergen Management",
+    "content": "Preventing allergen cross-contact requires systematic procedures. Designate specific prep areas for allergen-free orders when possible, using separate cutting boards. Use clean, sanitized utensils, pans, and cooking equipment for allergen orders - never scrape allergen residue off a griddle and continue cooking. Fryers present high risk: breaded items transfer wheat proteins to oil, requiring dedicated fryers for allergen-free items or complete oil changes. Wash hands and change gloves between handling allergen and non-allergen foods. Be cautious with garnishes: a wheat crouton on a gluten-free salad contaminates the entire dish. Check all ingredients for hidden allergens: soy lecithin in chocolate, milk derivatives in deli meats, wheat in soy sauce. Communicate allergen orders clearly: use separate tickets, distinct plates, or flags. Deliver allergen orders directly to guest, confirming preparation precautions. Train staff on severity: peanut allergy can be fatal from trace amounts.",
+    "keywords": [
+      "cross-contact prevention",
+      "allergen-free prep",
+      "dedicated equipment",
+      "kitchen procedures",
+      "food allergy safety"
+    ],
+    "violation_type": "critical",
+    "inspection_priority": "high"
+  },
+  {
+    "id": "doc_014",
+    "title": "Food Handler Certification and Training Requirements",
+    "category": "Employee Training",
+    "content": "Most jurisdictions require food handler certifications for employees working with unpackaged food. Requirements vary by location: some require all staff to be certified, others require only one certified person on premises during operating hours (usually a manager). Food handler certificates are obtained through accredited programs (ServSafe, Learn2Serve, StateFoodSafety) requiring 2-4 hours of training and a proctored exam. Topics covered include personal hygiene, temperature control, cross-contamination, cleaning and sanitizing, and allergen awareness. Certificates are typically valid for 2-5 years depending on jurisdiction. New employees may have 30-90 days to obtain certification after hire date. Managers often require higher-level certification (ServSafe Manager) involving 8 hours of training. Keep certificates on file and readily available during inspections. Conduct ongoing training during orientation covering handwashing, glove use, temperature taking, and allergen awareness. Document all training with sign-in sheets, dates, and topics covered.",
+    "keywords": [
+      "food handler certification",
+      "ServSafe",
+      "employee training",
+      "food safety certification",
+      "manager certification"
+    ],
+    "violation_type": "non-critical",
+    "inspection_priority": "medium"
+  },
+  {
+    "id": "doc_015",
+    "title": "Required Documentation and Record Keeping",
+    "category": "Documentation",
+    "content": "Health inspections include document review. Required records include: Daily temperature logs (refrigeration, freezer, hot holding), cooking temperature logs for time-temperature controlled items, cooling logs for foods being cooled, employee illness logs, food handler certificates, pest control service reports (monthly), supplier invoices and receiving records (90 days), shellfish tags (90 days), cleaning schedules and completion logs, employee training records, and water quality reports (if on well water). Use standardized forms for consistency. Assign specific staff to record temperatures at designated times. Store documents in binders organized by category, readily accessible during inspections. Temperature logs must show date, time, temperature, corrective actions taken if out of range, and initials of person recording. Missing or incomplete documentation is a common violation. Set phone reminders for recording temperatures. Review logs weekly to identify equipment problems. Keep records for at least 1 year; some jurisdictions require 3 years.",
+    "keywords": [
+      "documentation",
+      "temperature logs",
+      "record keeping",
+      "compliance records",
+      "food safety logs"
+    ],
+    "violation_type": "non-critical",
+    "inspection_priority": "medium"
+  },
+  {
+    "id": "doc_016",
+    "title": "What to Expect During a Health Inspection",
+    "category": "Inspection Process",
+    "content": "Health inspections are unannounced and occur 1-4 times per year depending on risk category and previous performance. Inspectors arrive during operating hours, present identification, and begin with a facility walk-through. They observe: employee practices (handwashing, glove use), food temperatures (using calibrated thermometers), food storage organization, equipment condition, facility cleanliness, and pest evidence. Inspectors review documentation: temperature logs, certifications, pest control reports. The inspection typically lasts 2-4 hours. Be cooperative but know your rights: you can ask for identification, request to see violations before the inspector leaves, and ask questions about citations. After inspection, you'll receive a written report detailing violations with correction timeframes. Critical violations require immediate correction or temporary closure. You have the right to request a re-inspection after corrections. Never interfere with an inspection or refuse entry - this can result in closure. Stay calm and professional throughout the process.",
+    "keywords": [
+      "health inspection",
+      "inspection process",
+      "health inspector",
+      "facility inspection",
+      "inspection procedure"
+    ],
+    "violation_type": "informational",
+    "inspection_priority": "high"
+  },
+  {
+    "id": "doc_017",
+    "title": "Preparing for Your First Health Inspection",
+    "category": "Inspection Process",
+    "content": "New establishments should prepare thoroughly for the first inspection. Before opening: complete all required permits and licenses, install proper equipment (hand sinks, three-compartment sink, refrigeration with thermometers), establish food supplier relationships with licensed vendors, implement temperature logging systems, train all staff on food safety, develop cleaning schedules, and contract with a pest control company. One week before: deep clean entire facility, check all equipment functionality, calibrate thermometers, organize storage areas with proper labeling, stock cleaning supplies and sanitizers, prepare all required documentation in binders, review procedures with staff, and conduct a mock inspection. Day of inspection: have manager or certified person on site, ensure all staff are in clean uniforms with hair restraints, display current permits, have temperature logs updated, ensure hand sinks are stocked and accessible, check food temperatures, confirm all food is properly covered and labeled. Common first-inspection mistakes include: missing hand sink soap, inadequate lighting, foods not covered, missing thermometers, incomplete documentation, and untrained staff.",
+    "keywords": [
+      "inspection preparation",
+      "first inspection",
+      "new restaurant",
+      "opening checklist",
+      "inspection readiness"
+    ],
+    "violation_type": "informational",
+    "inspection_priority": "high"
+  },
+  {
+    "id": "doc_018",
+    "title": "Responding to Violations and Re-Inspection Timeline",
+    "category": "Inspection Process",
+    "content": "After receiving an inspection report, immediately review all violations with management and staff. Critical violations require immediate correction - typically within 24-72 hours. Take photos documenting corrections. For pest violations, schedule extermination same day and obtain service report. For temperature violations, repair or replace equipment immediately and discard affected foods. Non-critical violations have longer correction windows (30-90 days). Submit a corrective action plan to the health department detailing what was done to fix each violation. Request re-inspection after critical violations are corrected. During re-inspection, inspectors verify only the cited violations were corrected. Repeated violations (same issue on multiple inspections) result in escalating penalties: warnings, fines ($100-$1000 per violation), mandatory manager training, grade downgrades, or permit suspension. If you disagree with a violation, file a formal appeal within the timeframe specified (usually 10-15 days). Maintain positive relationships with inspectors - they're partners in food safety, not adversaries.",
+    "keywords": [
+      "violation correction",
+      "re-inspection",
+      "corrective action",
+      "inspection follow-up",
+      "violation appeal"
+    ],
+    "violation_type": "informational",
+    "inspection_priority": "high"
+  },
+  {
+    "id": "doc_019",
+    "title": "Common Violations by Cuisine Type: Asian and Italian",
+    "category": "Cuisine-Specific Issues",
+    "content": "Different cuisine types face unique inspection challenges. Asian restaurants: improper cooling of large batches of rice (high risk for Bacillus cereus - use shallow pans and refrigerate within 1 hour), inadequate hot holding of dim sum items in steamers (must maintain 135°F), cross-contamination from wok cooking, improper storage of fish for sushi/sashimi (requires 41°F or below with parasite destruction documentation), bare hand contact with sushi rolls, and raw egg use without customer awareness. Italian restaurants: improper cooling of large pasta batches (requires shallow pans and ice baths), inadequate hot holding of pizza by the slice (must maintain 135°F), cross-contamination from raw dough handling then touching ready-to-eat ingredients, improper storage of fresh mozzarella and ricotta (highly perishable), temperature abuse of cream-based sauces like Alfredo, and improper date marking of house-made sauces. Both cuisine types benefit from staff training specific to their preparation methods and ingredient handling.",
+    "keywords": [
+      "Asian restaurant",
+      "Italian restaurant",
+      "sushi safety",
+      "pasta safety",
+      "cuisine-specific violations"
+    ],
+    "violation_type": "critical",
+    "inspection_priority": "high"
+  },
+  {
+    "id": "doc_020",
+    "title": "Common Violations by Cuisine Type: BBQ and Bakery",
+    "category": "Cuisine-Specific Issues",
+    "content": "BBQ restaurants face challenges with slow-cooking methods: inadequate cooking temperatures during long smoking (internal temp must still reach safe levels: 145°F for whole cuts, 165°F for poultry), temperature abuse during holding after smoking (must maintain 135°F or above), improper cooling of large smoked briskets and pork shoulders (dense meats cool slowly, requires slicing and shallow pans), cross-contamination from raw meat handling in outdoor prep areas, pest attraction to outdoor cooking areas, and inadequate hot holding in cambros or warming boxes. Bakeries have concerns with eggs and dairy: improper storage of cream-filled pastries and cakes (requires refrigeration at 41°F), inadequate cooling of baked goods containing dairy or eggs (cream pies, custards must use proper two-stage cooling method), cross-contamination from raw egg handling, bare hand contact with ready-to-eat baked goods during decorating, improper date marking of decorated cakes and cream pastries (7-day rule), and temperature abuse of buttercream and cream cheese frostings. Both require specialized temperature monitoring and staff training.",
+    "keywords": [
+      "BBQ restaurant",
+      "bakery",
+      "smoking temperature",
+      "cream filling",
+      "outdoor cooking"
+    ],
+    "violation_type": "critical",
+    "inspection_priority": "high"
+  }
+]
