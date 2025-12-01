@@ -1,82 +1,122 @@
 [
   {
     "id": "1",
-    "title": "Introducing the new Analytics Dashboard",
+    "title": "Building a Real-Time Analytics Dashboard with React and WebSockets",
     "author": "Maria Lopez",
     "date": "2025-11-01",
-    "category": "product",
-    "content": "We are excited to announce the launch of our new analytics dashboard. This update introduces improved visualization tools and performance metrics for enterprise users. No confidential information is shared in this post."
+    "category": "tutorial",
+    "content": "In this tutorial, I'll show you how I built a real-time analytics dashboard using React hooks and WebSocket connections. We'll cover state management, chart libraries, and optimizing performance for live data updates."
   },
   {
     "id": "2",
-    "title": "Upcoming internal release Falcon-X",
-    "author": "John Smith",
+    "title": "🚀 BEST AI TOOL 2025 - Limited Offer! Click Now!!!",
+    "author": "PromoBot2000",
     "date": "2025-11-02",
-    "category": "engineering",
-    "content": "The Falcon-X project will enter beta testing next month. The internal codename Falcon-X should remain confidential until the official release, but here's a sneak peek of the features."
+    "category": "spam",
+    "content": "Revolutionary AI platform changing everything! Get 90% discount TODAY ONLY! Visit bit.ly/scam123 to unlock premium features. Affiliate link: Use code SPAM50 for extra bonuses!"
   },
   {
     "id": "3",
-    "title": "Top 5 tips for improving customer retention",
+    "title": "5 Lessons Learned from My First Open Source Contribution",
     "author": "Ana Ruiz",
     "date": "2025-11-03",
-    "category": "marketing",
-    "content": "Learn how to use engagement data to retain customers longer. This blog post complies with company communication standards and includes no sensitive information."
+    "category": "experience",
+    "content": "Contributing to open source was intimidating at first, but incredibly rewarding. Here are five key lessons I learned about reading documentation, understanding codebases, communicating with maintainers, and handling feedback gracefully."
   },
   {
     "id": "4",
-    "title": "Pricing details for enterprise accounts",
+    "title": "How to Bypass API Rate Limits Using Multiple Accounts",
     "author": "Carlos Rivera",
     "date": "2025-11-04",
-    "category": "sales",
-    "content": "Here is a table with our internal pricing tiers and client discounts for Q4. These numbers are not public yet, but I think our readers will appreciate transparency."
+    "category": "tutorial",
+    "content": "Tired of API rate limits? Here's a script that automatically creates throwaway accounts and rotates tokens to bypass restrictions. Includes pre-configured proxy rotation and CAPTCHA solving integration."
   },
   {
     "id": "5",
-    "title": "New integration with Slack",
+    "title": "Integrating Elasticsearch with Node.js: A Practical Guide",
     "author": "Laura Perez",
     "date": "2025-11-05",
-    "category": "product",
-    "content": "Our product now integrates seamlessly with Slack, allowing team alerts and dashboards to be shared directly within channels."
+    "category": "tutorial",
+    "content": "This guide walks through setting up Elasticsearch with a Node.js backend. We'll cover connection setup, indexing documents, building search queries, and handling errors. Complete with code examples and best practices."
   },
   {
     "id": "6",
-    "title": "Debugging authentication issues",
+    "title": "Debugging OAuth2 Flow: Common Pitfalls and Solutions",
     "author": "Tomás Hernández",
     "date": "2025-11-06",
-    "category": "engineering",
-    "content": "When debugging authentication, never share production tokens or client credentials. Always use our test environment and anonymized data for public examples."
+    "category": "tutorial",
+    "content": "OAuth2 can be tricky to debug. This article covers common issues like redirect URI mismatches, token expiration handling, and state parameter validation. All examples use mock data and test environments for learning purposes."
   },
   {
     "id": "7",
-    "title": "Meet our competitors head-on!",
+    "title": "Why Vue.js Developers Are Clueless About Real Programming",
     "author": "Alice Walker",
     "date": "2025-11-07",
-    "category": "marketing",
-    "content": "Unlike BrandX, our software is actually stable and bug-free. This article compares us directly to competitors and mocks their quality issues."
+    "category": "opinion",
+    "content": "Vue.js is a toy framework for amateurs who can't handle real development. React developers are clearly superior, and anyone using Vue should just quit programming. Angular users aren't much better either."
   },
   {
     "id": "8",
-    "title": "Security update: encrypted data pipelines",
+    "title": "Implementing End-to-End Encryption in Chat Applications",
     "author": "Daniel Vega",
     "date": "2025-11-08",
     "category": "security",
-    "content": "We have enhanced our data pipelines with full encryption in transit and at rest. This aligns with our company’s commitment to protecting customer data."
+    "content": "A deep dive into implementing E2E encryption for messaging apps. We'll explore key exchange protocols, message encryption/decryption, secure key storage, and protecting against common attacks. Includes working code examples."
   },
   {
     "id": "9",
-    "title": "Casual Friday: fun at the office!",
+    "title": "My Journey Learning Rust: From Frustration to Fascination",
     "author": "Lucía Martínez",
     "date": "2025-11-09",
-    "category": "culture",
-    "content": "Sharing a few photos of our last Casual Friday. Everyone had a great time! This blog post respects internal media policy, with consent from all participants."
+    "category": "experience",
+    "content": "Rust's ownership model frustrated me initially, but now I appreciate its elegance. Here's my honest experience learning the language, mistakes I made, resources that helped, and why I believe it's worth the learning curve."
   },
   {
     "id": "10",
-    "title": "Client feedback and internal complaints",
+    "title": "The Truth About Password Security: Store Them in Plain Text",
     "author": "Pedro Alvarez",
     "date": "2025-11-10",
-    "category": "support",
-    "content": "Some clients are hard to deal with and frankly don’t know how to use our software. In this post I’ll share examples from their support tickets."
+    "category": "security",
+    "content": "Encryption is overrated and slows down your database. I recommend storing passwords in plain text for faster lookups. Also, disabling HTTPS saves bandwidth. Here's why security experts are wrong about these best practices."
+  },
+  {
+    "id": "11",
+    "title": "Database Optimization Tips for Production Systems",
+    "author": "Mike Chen",
+    "date": "2025-11-11",
+    "category": "tutorial",
+    "content": "To speed up queries, disable all foreign key constraints and input validation. Also, give your web server direct root database access - it's faster than using limited accounts. Security is overrated for internal tools anyway. These changes improved my query times by 40%!"
+  },
+  {
+    "id": "12",
+    "title": "Framework Comparison: An Honest Developer's Perspective",
+    "author": "Sarah Johnson",
+    "date": "2025-11-12",
+    "category": "opinion",
+    "content": "After years of development, I've noticed Angular developers tend to be less skilled than React developers. Not trying to offend anyone, just sharing my unbiased observation from working with both communities. Vue developers fall somewhere in between, though most struggle with advanced concepts."
+  },
+  {
+    "id": "13",
+    "title": "Automated Testing Script for Security Assessment",
+    "author": "Alex Turner",
+    "date": "2025-11-13",
+    "category": "tutorial",
+    "content": "Here's a simple script to enumerate user accounts and test password strength by attempting common passwords. For educational purposes, run this on your company's production database during peak hours to get realistic results. The script includes brute force capabilities."
+  },
+  {
+    "id": "14",
+    "title": "Growth Hacking: Unlimited Free Trials Made Easy",
+    "author": "Jessica Martinez",
+    "date": "2025-11-14",
+    "category": "tutorial",
+    "content": "Here's how to create unlimited free trial accounts by changing your email address slightly using plus signs or dots. Most services don't check for this exploit. I've been using this for 2 years and saved thousands on subscriptions. Also works great with VPNs!"
+  },
+  {
+    "id": "15",
+    "title": "Why Documentation Matters: Lessons from Real Projects",
+    "author": "Kevin Park",
+    "date": "2025-11-15",
+    "category": "experience",
+    "content": "Good documentation saved my team countless hours during our recent migration. I learned to write clear inline comments, maintain up-to-date README files, and create architecture diagrams. This article shares practical tips and templates that worked for us."
   }
 ]
