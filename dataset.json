@@ -1,122 +1,122 @@
 [
   {
     "id": "1",
-    "title": "Building a Real-Time Analytics Dashboard with React and WebSockets",
+    "title": "New REST API v2: Performance and authentication improvements",
     "author": "Maria Lopez",
     "date": "2025-11-01",
-    "category": "tutorial",
-    "content": "In this tutorial, I'll show you how I built a real-time analytics dashboard using React hooks and WebSocket connections. We'll cover state management, chart libraries, and optimizing performance for live data updates."
+    "category": "product",
+    "content": "We have launched version 2 of our REST API with significant improvements. The new API includes enhanced OAuth2 authentication, cursor-based pagination support, and a new endpoint for batch queries. Response times have improved by 40% thanks to index and cache optimization. This update is backward compatible with v1 for 6 months."
   },
   {
     "id": "2",
-    "title": "🚀 BEST AI TOOL 2025 - Limited Offer! Click Now!!!",
-    "author": "PromoBot2000",
+    "title": "Security warning: Authentication system vulnerability",
+    "author": "Security Team",
     "date": "2025-11-02",
-    "category": "spam",
-    "content": "Revolutionary AI platform changing everything! Get 90% discount TODAY ONLY! Visit bit.ly/scam123 to unlock premium features. Affiliate link: Use code SPAM50 for extra bonuses!"
+    "category": "security",
+    "content": "We have identified a critical vulnerability in the authentication system that could allow unauthorized access. The vulnerability affects users using JWT tokens issued before October 15th. We recommend updating immediately to SDK version 3.2.1. All affected tokens have been automatically revoked. Please regenerate your access credentials."
   },
   {
     "id": "3",
-    "title": "5 Lessons Learned from My First Open Source Contribution",
+    "title": "New visualization dashboard: Interactive charts and real-time analytics",
     "author": "Ana Ruiz",
     "date": "2025-11-03",
-    "category": "experience",
-    "content": "Contributing to open source was intimidating at first, but incredibly rewarding. Here are five key lessons I learned about reading documentation, understanding codebases, communicating with maintainers, and handling feedback gracefully."
+    "category": "product",
+    "content": "We present our new visualization dashboard with advanced capabilities. It includes interactive line charts, bar charts, and heat maps. Users can create custom visualizations by dragging and dropping fields. The system now supports real-time analytics with updates every 5 seconds. We have also added PDF and PNG export for reports."
   },
   {
     "id": "4",
-    "title": "How to Bypass API Rate Limits Using Multiple Accounts",
+    "title": "Important changes to the notification system",
     "author": "Carlos Rivera",
     "date": "2025-11-04",
-    "category": "tutorial",
-    "content": "Tired of API rate limits? Here's a script that automatically creates throwaway accounts and rotates tokens to bypass restrictions. Includes pre-configured proxy rotation and CAPTCHA solving integration."
+    "category": "product",
+    "content": "We have made important changes to the notification system. We now support push, email, and SMS notifications. Users can configure custom rules to receive alerts based on metric thresholds. The new system includes a notification history and the ability to temporarily mute certain types of alerts. These changes require a mobile client update."
   },
   {
     "id": "5",
-    "title": "Integrating Elasticsearch with Node.js: A Practical Guide",
+    "title": "Known risks when migrating from version 1.x to 2.0",
     "author": "Laura Perez",
     "date": "2025-11-05",
     "category": "tutorial",
-    "content": "This guide walks through setting up Elasticsearch with a Node.js backend. We'll cover connection setup, indexing documents, building search queries, and handling errors. Complete with code examples and best practices."
+    "content": "If you're planning to migrate from version 1.x to 2.0, there are several important risks to consider. The most significant change is the new data structure that requires schema transformation. Some endpoints have been deprecated and others have changes in required parameters. We recommend doing the migration in a staging environment first and validating all integrations. We have created a detailed migration guide."
   },
   {
     "id": "6",
-    "title": "Debugging OAuth2 Flow: Common Pitfalls and Solutions",
-    "author": "Tomás Hernández",
+    "title": "Complete guide to the new API: Endpoints and examples",
+    "author": "Tomas Hernandez",
     "date": "2025-11-06",
     "category": "tutorial",
-    "content": "OAuth2 can be tricky to debug. This article covers common issues like redirect URI mismatches, token expiration handling, and state parameter validation. All examples use mock data and test environments for learning purposes."
+    "content": "This guide describes in detail all endpoints of the new API v2. It includes code examples in Python, JavaScript, and cURL for each endpoint. We cover authentication, resource creation, queries, updates, and deletion. We also explain error handling, rate limiting, and best practices. Complete documentation is available on our developer portal."
   },
   {
     "id": "7",
-    "title": "Why Vue.js Developers Are Clueless About Real Programming",
-    "author": "Alice Walker",
+    "title": "Tutorial: Creating custom visualizations step by step",
+    "author": "Daniel Vega",
     "date": "2025-11-07",
-    "category": "opinion",
-    "content": "Vue.js is a toy framework for amateurs who can't handle real development. React developers are clearly superior, and anyone using Vue should just quit programming. Angular users aren't much better either."
+    "category": "tutorial",
+    "content": "Learn how to create custom visualizations from scratch. This tutorial covers how to select the appropriate chart type, configure axes and scales, apply filters, and customize colors and styles. It includes practical examples for visualizing sales data, performance metrics, and trend analysis. We also explain how to share visualizations with your team."
   },
   {
     "id": "8",
-    "title": "Implementing End-to-End Encryption in Chat Applications",
-    "author": "Daniel Vega",
+    "title": "Critical update: Bug fix in data processing",
+    "author": "Development Team",
     "date": "2025-11-08",
-    "category": "security",
-    "content": "A deep dive into implementing E2E encryption for messaging apps. We'll explore key exchange protocols, message encryption/decryption, secure key storage, and protecting against common attacks. Includes working code examples."
+    "category": "product",
+    "content": "We have fixed a critical bug that caused data loss in certain processing scenarios. The bug affected users processing more than 10,000 records simultaneously. The fix is available in version 2.1.3. If you have processed large volumes of data recently, please verify the integrity of your data and contact support if you find discrepancies."
   },
   {
     "id": "9",
-    "title": "My Journey Learning Rust: From Frustration to Fascination",
-    "author": "Lucía Martínez",
+    "title": "Best practices for using the new API efficiently",
+    "author": "Lucia Martinez",
     "date": "2025-11-09",
-    "category": "experience",
-    "content": "Rust's ownership model frustrated me initially, but now I appreciate its elegance. Here's my honest experience learning the language, mistakes I made, resources that helped, and why I believe it's worth the learning curve."
+    "category": "tutorial",
+    "content": "We share best practices for using the new API efficiently. It includes caching techniques, using batch queries to reduce calls, implementing retry logic with exponential backoff, and how to optimize rate limit usage. We also cover recommended design patterns and how to structure your code to keep it maintainable and scalable."
   },
   {
     "id": "10",
-    "title": "The Truth About Password Security: Store Them in Plain Text",
+    "title": "Comparative analysis: Technical vs. introductory articles",
     "author": "Pedro Alvarez",
     "date": "2025-11-10",
-    "category": "security",
-    "content": "Encryption is overrated and slows down your database. I recommend storing passwords in plain text for faster lookups. Also, disabling HTTPS saves bandwidth. Here's why security experts are wrong about these best practices."
+    "category": "analysis",
+    "content": "We have analyzed the most popular articles in our community and found interesting patterns. Deep technical articles (with code and advanced examples) have higher long-term engagement, while introductory articles have more initial traffic. Technical articles are often more shared in developer communities, while introductory articles are better for SEO and new user acquisition."
   },
   {
     "id": "11",
-    "title": "Database Optimization Tips for Production Systems",
+    "title": "New visualization features: Heat maps and scatter plots",
     "author": "Mike Chen",
     "date": "2025-11-11",
-    "category": "tutorial",
-    "content": "To speed up queries, disable all foreign key constraints and input validation. Also, give your web server direct root database access - it's faster than using limited accounts. Security is overrated for internal tools anyway. These changes improved my query times by 40%!"
+    "category": "product",
+    "content": "We have added two new types of visualizations: heat maps to identify patterns in multidimensional data, and scatter plots for correlation analysis. Heat maps are especially useful for analyzing temporal and geographic data. Scatter plots include interactive zoom and filtering tools. Both features are available in the Pro plan."
   },
   {
     "id": "12",
-    "title": "Framework Comparison: An Honest Developer's Perspective",
+    "title": "Warning: Changes in date filter behavior",
     "author": "Sarah Johnson",
     "date": "2025-11-12",
-    "category": "opinion",
-    "content": "After years of development, I've noticed Angular developers tend to be less skilled than React developers. Not trying to offend anyone, just sharing my unbiased observation from working with both communities. Vue developers fall somewhere in between, though most struggle with advanced concepts."
+    "category": "product",
+    "content": "We have changed the behavior of date filters to be more consistent with time zones. Filters now use UTC by default instead of the browser's local time zone. This may affect queries that depend on specific date ranges. If you notice unexpected results in your date queries, please update your filters to use explicit UTC timestamps."
   },
   {
     "id": "13",
-    "title": "Automated Testing Script for Security Assessment",
+    "title": "Summary of articles about data visualizations",
     "author": "Alex Turner",
     "date": "2025-11-13",
-    "category": "tutorial",
-    "content": "Here's a simple script to enumerate user accounts and test password strength by attempting common passwords. For educational purposes, run this on your company's production database during peak hours to get realistic results. The script includes brute force capabilities."
+    "category": "summary",
+    "content": "This article summarizes all available resources about visualizations on our platform. It covers everything from basic tutorials to advanced customization guides. It includes references to articles about chart types, design best practices, performance optimization, and specific use cases. Ideal for users who want to learn about visualizations in a structured way."
   },
   {
     "id": "14",
-    "title": "Growth Hacking: Unlimited Free Trials Made Easy",
+    "title": "Migration risk: Considerations for updating to the new architecture",
     "author": "Jessica Martinez",
     "date": "2025-11-14",
     "category": "tutorial",
-    "content": "Here's how to create unlimited free trial accounts by changing your email address slightly using plus signs or dots. Most services don't check for this exploit. I've been using this for 2 years and saved thousands on subscriptions. Also works great with VPNs!"
+    "content": "If you're considering updating to the new architecture, there are several risks to consider. The most important change is the database migration that requires planned downtime. There are also changes in the configuration structure that may break existing integrations. We recommend doing a complete impact assessment before proceeding. We have created a migration checklist available in our repository."
   },
   {
     "id": "15",
-    "title": "Why Documentation Matters: Lessons from Real Projects",
+    "title": "Complete API documentation: Reference and examples",
     "author": "Kevin Park",
     "date": "2025-11-15",
-    "category": "experience",
-    "content": "Good documentation saved my team countless hours during our recent migration. I learned to write clear inline comments, maintain up-to-date README files, and create architecture diagrams. This article shares practical tips and templates that worked for us."
+    "category": "documentation",
+    "content": "This complete documentation covers all aspects of the API. It includes reference for all endpoints with detailed descriptions, required and optional parameters, response codes, and request and response examples. It also includes authentication guides, error handling, rate limiting, and versioning. The documentation is available in interactive format with the ability to test endpoints directly from the browser."
   }
 ]
