@@ -15,7 +15,7 @@ Seguridad y vulnerabilidades
 <think>
 
 </think>
-
+LLM response:
 {
     "recommendations": [
         {
@@ -42,14 +42,6 @@ Seguridad y vulnerabilidades
 }
 ```
 
----
-# 📊 Latency Report:
-
-  • LLM generation: 12119.02ms
-
-  • Total time: 12119.02ms
-
----
 
 # Elasticserch results:  
 ```json
