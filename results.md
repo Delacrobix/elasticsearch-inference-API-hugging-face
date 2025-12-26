@@ -1,49 +1,10 @@
 
-# 🔍 Search Query: 
-
-Seguridad y vulnerabilidades
+## 🔍 Search Query:  Seguridad y vulnerabilidades
 -----
 
 ✅ Found 5 relevant articles
 
-----
-🤖 Generating personalized recommendations...
-
-
-
-```json
-<think>
-
-</think>
-LLM response:
-{
-    "recommendations": [
-        {
-            "article_number": 1,
-            "recommendation": "If you're interested in security, this article about an identified vulnerability in the authentication system is a must-read. It's crucial to update your SDK immediately and regenerate your credentials."
-        },
-        {
-            "article_number": 2,
-            "recommendation": "This post complements your search with detailed considerations for migrating from version 1.x to 2.0, including changes in data structures and deprecated endpoints. A staging environment is recommended before full migration."
-        },
-        {
-            "article_number": 3,
-            "recommendation": "For those looking into the notification system updates, this article provides a comprehensive overview of new features like push notifications and custom alert rules. It's essential to update your mobile client for seamless integration."
-        },
-        {
-            "article_number": 4,
-            "recommendation": "This tutorial is perfect if you're considering updating to the new architecture, as it highlights key risks such as database migration downtime and configuration changes that could break integrations. A thorough impact assessment is recommended before proceeding."
-        },
-        {
-            "article_number": 5,
-            "recommendation": "If you've been processing large volumes of data recently, this article about a critical error correction in the data processing system is essential reading. It's crucial to verify your data integrity and contact support if issues arise."
-        }
-    ]
-}
-```
-
-
-# Elasticserch results:  
+### Elasticserch results:  
 ```json
 [
     {
@@ -114,9 +75,43 @@ LLM response:
 ]
 ```
 
+----
+### 🤖 Generating personalized recommendations...
+
+```json
+<think>
+
+</think>
+LLM response:
+{
+    "recommendations": [
+        {
+            "article_number": 1,
+            "recommendation": "If you're interested in security, this article about an identified vulnerability in the authentication system is a must-read. It's crucial to update your SDK immediately and regenerate your credentials."
+        },
+        {
+            "article_number": 2,
+            "recommendation": "This post complements your search with detailed considerations for migrating from version 1.x to 2.0, including changes in data structures and deprecated endpoints. A staging environment is recommended before full migration."
+        },
+        {
+            "article_number": 3,
+            "recommendation": "For those looking into the notification system updates, this article provides a comprehensive overview of new features like push notifications and custom alert rules. It's essential to update your mobile client for seamless integration."
+        },
+        {
+            "article_number": 4,
+            "recommendation": "This tutorial is perfect if you're considering updating to the new architecture, as it highlights key risks such as database migration downtime and configuration changes that could break integrations. A thorough impact assessment is recommended before proceeding."
+        },
+        {
+            "article_number": 5,
+            "recommendation": "If you've been processing large volumes of data recently, this article about a critical error correction in the data processing system is essential reading. It's crucial to verify your data integrity and contact support if issues arise."
+        }
+    ]
+}
+```
+
 --------
 
-# 📇 RECOMMENDED ARTICLES                                       
+## 📇 RECOMMENDED ARTICLES                                       
 --------
 
 
